@@ -1,7 +1,6 @@
 # ansys-spaceclaim-rve-multi-filler-particle--generator
 ANSYS SpaceClaim RVE Multi-Filler Generator is a scripting tool designed to automate the generation of Representative Volume Elements (RVEs) with multiple fillers in ANSYS DesignModeler. This script helps in modeling composite materials by efficiently placing fillers within a matrix.
 
-ANSYS SpaceClaim RVE Multi-Filler Generator is a scripting tool that automates the creation of Representative Volume Elements (RVEs) with multiple fillers in ANSYS SpaceClaim 2023 R2. This tool helps in modeling composite materials by efficiently placing fillers within a matrix, enhancing workflow efficiency in computational simulations.
 
 Features
 
