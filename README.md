@@ -18,12 +18,16 @@ In ANSYS, the current support is limited to either a single particle type or a r
 - Python/IronPython (for scripting in SpaceClaim).
 
 ## Installation
+-Directly download and Import:
 
-Clone this repository:
+https://drive.google.com/file/d/1nRasKHEq_x_7XsvqDDCYGToVnecNNhks/view?usp=sharing
+
+-Clone this repository:
 
 git clone https://github.com/yourusername/ansys-spaceclaim-rve-multi-filler-generator.git
 
-Open ANSYS SpaceClaim or Designmodeler (BE CAREFUL TO CHECK THE UNITS THE SCIRPT USES UM units, It can be modified by chanigng UM to MM in all places.)
+Open ANSYS SpaceClaim or Designmodeler
+(BE CAREFUL TO CHECK THE UNITS THE SCIRPT USES UM units, It can be modified by chanigng UM to MM in all places)
 
 Load the script into the Scripting Environment.
 
@@ -53,4 +57,4 @@ Feel free to submit issues or contribute by opening a pull request.
 
 ## Contact
 
-For questions or suggestions, reach out via GitHub issues.
+For questions or suggestions, reach out via GitHub issues or drop a email on bhaktaharsh123@gmail.com
