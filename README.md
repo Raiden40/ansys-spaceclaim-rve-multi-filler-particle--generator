@@ -24,7 +24,7 @@ https://drive.google.com/file/d/1nRasKHEq_x_7XsvqDDCYGToVnecNNhks/view?usp=shari
 
 -Clone this repository:
 
-git clone https://github.com/yourusername/ansys-spaceclaim-rve-multi-filler-generator.git
+git clone https://github.com/Raiden40/ansys-spaceclaim-rve-multi-filler-generator.git
 
 Open ANSYS SpaceClaim or Designmodeler
 (BE CAREFUL TO CHECK THE UNITS THE SCIRPT USES UM units, It can be modified by chanigng UM to MM in all places)
